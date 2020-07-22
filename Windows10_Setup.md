@@ -15,7 +15,7 @@
 3. Configure the libusb driver settings
 
 - Select "**libusb-win32(v1.2.6.0)**" from the Driver selection spinner(Next to the Green pointing arrow).
-![Image - Driver selection](/data/devices_selection.png)
+![Image - Driver selection](/data/driver_selection.png)
 
 4. Confirm the driver installation
 
