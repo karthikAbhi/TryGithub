@@ -22,4 +22,4 @@
 - On completion of driver installation, Open the **device manager** as Administrator -> Under **libusb-win32 devices** -> "**H-RPRT01-AXXX**" device will be listed.
 ![Image - Driver Confirmation](/data/driver_confirmation.png)
 
-*Congrats!* You have successfully completed the libusb driver installation for Windows platform.
+:clap: __*Congrats!*__ You have successfully completed the libusb driver installation for Windows platform.
